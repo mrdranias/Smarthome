@@ -8,7 +8,7 @@ Address: 341 High Ridge Drive, Mills River, NC 28759
 
 ## **Professional Summary**
 
-Innovative Data Scientist with a Ph.D. in Computational/Cognitive Neuroscience and extensive experience in AI/ML model development, data analysis, and machine learning. Proven ability to lead generative AI projects, develop scalable Python solutions, and apply NLP and GenAI techniques to solve complex business problems. Adept at collaborating with cross-functional teams to create compelling learning experiences and mentoring junior colleagues. Passionate about leveraging data science to enhance educational outcomes.
+Innovative Data Scientist with a Ph.D. in Computational/Cognitive Neuroscience and extensive experience in AI/ML model development, data analysis, and machine learning. Proven ability to lead generative AI projects, develop scalable Python solutions, and apply NLP and GenAI techniques to solve complex business problems. Adept at collaborating with cross-functional teams to create compelling learning experiences and mentoring junior colleagues. 
 
 ---
 
